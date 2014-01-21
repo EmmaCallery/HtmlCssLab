@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+    color: dimgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    font-size:small;
+}
+
+em{
+    font-style: italic;
+}
+
+.Title {
+    background-color:black;
+    color: white;
+}
