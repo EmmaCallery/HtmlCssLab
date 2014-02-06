@@ -10,6 +10,8 @@ em{
      background-color:black;
      color: white;
     text-shadow: 5px 20px 2px white;
+    height: 80px;
+    font-size: xx-large;
  }
 #about {
     color: white;
@@ -39,6 +41,13 @@ th{
     font-size: x-large;
 }
 
+#tin{
+    width: 15em;
+    word-wrap: break-word;
+}
+#tin h2{
+    color: yellow;
+}
 
 #footer{
      font-size:small;
